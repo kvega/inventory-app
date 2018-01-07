@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Colors for use when indicating stock of an item -->
+    <color name="color_out_of_stock">#D32F2F</color>
+    <color name="color_low_stock">#F57C00</color>
+    <color name="color_sufficient_stock">#FBC02D</color>
+    <color name="color_high_stock">#388E3C</color>
+    <color name="color_full_stock">#1976D2</color>
+</resources>

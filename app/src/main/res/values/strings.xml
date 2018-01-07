@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Inventory Manager</string>
+
+    <!-- Text for Sale button -->
+    <string name="text_sale_button">Sale</string>
+
+    <!-- Text for required inputs in Provider -->
+    <string name="text_name_required">Item requires a name</string>
+
+    <string name="text_price_non_negative">Item price must be non-negative</string>
+
+    <string name="text_description_required">Item requires a description</string>
+
+    <string name="text_stock_non_negative">Item stock must be non-negative</string>
+
+    <string name="text_item_image_required">Item must have an associated image</string>
+
+    <string name="update_unsupported">Update is not supported for </string>
+
+    <string name="details_delete_item_failed">Error with deleting item</string>
+
+    <string name="details_delete_item_successful">Item deleted</string>
+
+    <string name="details_save_item_failed">Error with saving item</string>
+
+    <string name="details_save_item_successful">Item saved</string>
+
+    <string name="details_update_item_failed">Error with updating item</string>
+
+    <string name="details_update_item_successful">Item updated</string>
+
+    <string name="unsaved_changes_dialog">Discard your changes and quit editing?</string>
+
+    <string name="discard_changes">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="delete_dialog">Delete this item?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="order_summary_item_name">Item Name: </string>
+
+    <string name="order_summary_item_description">Item Description: </string>
+
+    <string name="order_summary_item_quantity_requested">Item Quantity Requested: </string>
+
+    <string name="additional_stock_request">Additional stock request for: </string>
+
+    <string name="order_button">Submit Order</string>
+
+    <string name="add_image">Add image?</string>
+
+    <string name="choose_image">Choose</string>
+
+    <!-- Text for MainActivity -->
+    <string name="empty_text_1">It\'s a bit empty in here</string>
+
+    <string name="empty_text_2">Start by adding a new item to the inventory</string>
+</resources>
